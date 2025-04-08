@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\ProjectCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProjectCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\AboutMe.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AboutMe.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -39,16 +15,44 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\ProjectCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProjectCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Projects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Projects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\projectsSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\projectsSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\AboutMe.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AboutMe.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\NavBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\NavBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\projectsSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\projectsSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\appSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,73 +105,51 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Projects.jsx",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Projects.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Projects.jsx",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Projects.jsx",
+              "RelativeToolTip": "src\\components\\Projects.jsx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-08T18:12:25.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProjectCard.jsx",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\ProjectCard.jsx",
               "RelativeDocumentMoniker": "src\\components\\ProjectCard.jsx",
               "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\ProjectCard.jsx",
               "RelativeToolTip": "src\\components\\ProjectCard.jsx",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-04-08T12:49:10.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\index.js",
-              "RelativeDocumentMoniker": "src\\index.js",
-              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\index.js",
-              "RelativeToolTip": "src\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-08T12:44:10.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NavBar.jsx",
-              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\NavBar.jsx",
-              "RelativeDocumentMoniker": "src\\components\\NavBar.jsx",
-              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\NavBar.jsx",
-              "RelativeToolTip": "src\\components\\NavBar.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-08T12:39:31.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Skills.jsx",
-              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Skills.jsx",
-              "RelativeDocumentMoniker": "src\\components\\Skills.jsx",
-              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Skills.jsx",
-              "RelativeToolTip": "src\\components\\Skills.jsx",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-07T19:34:56.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "App.js",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\App.js",
               "RelativeDocumentMoniker": "src\\App.js",
               "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\App.js",
               "RelativeToolTip": "src\\App.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-04-07T19:18:02.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Hero.jsx",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Hero.jsx",
               "RelativeDocumentMoniker": "src\\components\\Hero.jsx",
@@ -180,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AboutMe.jsx",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\AboutMe.jsx",
               "RelativeDocumentMoniker": "src\\components\\AboutMe.jsx",
@@ -188,24 +170,24 @@
               "RelativeToolTip": "src\\components\\AboutMe.jsx",
               "ViewState": "AgIAAAcAAAAAAAAAAADwvy0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-07T18:40:00.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T18:40:00.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "projectsSlice.js",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\projectsSlice.js",
               "RelativeDocumentMoniker": "src\\app\\projectsSlice.js",
               "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\projectsSlice.js",
               "RelativeToolTip": "src\\app\\projectsSlice.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-07T18:39:53.771Z"
+              "WhenOpened": "2025-04-07T18:39:53.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "apiSlice.js",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\apiSlice.js",
               "RelativeDocumentMoniker": "src\\app\\apiSlice.js",
@@ -217,45 +199,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "config.js",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\config.js",
               "RelativeDocumentMoniker": "src\\config.js",
               "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\config.js",
               "RelativeToolTip": "src\\config.js",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAADwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAJkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-04-07T18:38:46.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\package.json",
-              "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\package.json",
-              "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T18:39:19.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BackToTop.jsx",
-              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\BackToTop.jsx",
-              "RelativeDocumentMoniker": "src\\components\\BackToTop.jsx",
-              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\BackToTop.jsx",
-              "RelativeToolTip": "src\\components\\BackToTop.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-07T19:11:29.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "custom.scss",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\custom.scss",
               "RelativeDocumentMoniker": "src\\custom.scss",
@@ -268,7 +225,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T18:39:19.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Skills.jsx",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Skills.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Skills.jsx",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Skills.jsx",
+              "RelativeToolTip": "src\\components\\Skills.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-07T19:34:56.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavBar.jsx",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\NavBar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\NavBar.jsx",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\NavBar.jsx",
+              "RelativeToolTip": "src\\components\\NavBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-08T12:39:31.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-08T12:44:10.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BackToTop.jsx",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\BackToTop.jsx",
+              "RelativeDocumentMoniker": "src\\components\\BackToTop.jsx",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\BackToTop.jsx",
+              "RelativeToolTip": "src\\components\\BackToTop.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-07T19:11:29.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Home.jsx",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\pages\\Home.jsx",
               "RelativeDocumentMoniker": "src\\pages\\Home.jsx",
@@ -280,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GlobalStyles.js",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\GlobalStyles.js",
               "RelativeDocumentMoniker": "src\\components\\GlobalStyles.js",
@@ -292,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appSlice.js",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\appSlice.js",
               "RelativeDocumentMoniker": "src\\app\\appSlice.js",
@@ -304,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "store.js",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\app\\store.js",
               "RelativeDocumentMoniker": "src\\app\\store.js",
@@ -316,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Title.jsx",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\Title.jsx",
               "RelativeDocumentMoniker": "src\\components\\Title.jsx",
@@ -328,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\README.md",
               "RelativeDocumentMoniker": "README.md",
