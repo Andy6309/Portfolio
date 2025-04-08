@@ -1,4 +1,4 @@
-// Skills icons - https://icon-sets.iconify.design/
+﻿// Skills icons - https://icon-sets.iconify.design/
 import { Icon } from "@iconify/react";
 
 // Navbar Logo image (add your image to the src/images directory and uncomment the line below to import your image)
@@ -15,7 +15,7 @@ import Logo from "./images/logo.svg";
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "Andy6309";
 
 // Navbar Logo image
 export const navLogo = null;
@@ -35,7 +35,31 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+    "Hi, I'm Andy Mize — a Software Specialist and Developer based in Butler, KY. I focus on building high-performance, data-driven, and geospatially aware software systems.\n\n" +
+
+    " What I Do:\n" +
+    "- Backend/API development using C#, Python, Node.js, and SQL\n" +
+    "- Real-time data processing and ERP/MRP system integration\n" +
+    "- Scalable infrastructure with Docker, Kubernetes, and Google Cloud\n" +
+    "- Frontend dashboard development with React\n" +
+    "- Query tuning, automation, and architecture optimization\n\n" +
+
+    " What I’ve Built:\n" +
+    "- Tools that automate manufacturing workflows and integrate industrial systems\n" +
+    "- Pipelines that ingest, transform, and visualize real-time data (SQL/NoSQL)\n" +
+    "- Dashboards that connect CAM/CAD software to meaningful operational insights\n" +
+    "- Geospatial tools for mapping, tracking, and spatial intelligence\n\n" +
+
+    " Current Role:\n" +
+    "At Prima Power North America, I develop software that bridges industrial hardware with cloud-based analytics. I design and manage automation tools that power real-time operational visibility.\n\n" +
+
+    " Technologies I Work With:\n" +
+    "C# | Python | SQL | VB.NET | React | Node.js | Docker | MongoDB | OPC-UA | Grafana | Google Cloud\n" +
+
+    " I'm always exploring new technologies—especially around automation, geospatial data, and cloud-native applications.\n\n" +
+
+    "***Built with React, Bootstrap, Redux, and the GitHub REST API***";
+
 
 /* Skills
  ************************************************************** 
@@ -44,23 +68,23 @@ export const moreInfo =
 export const skillData = [
   {
     id: 1,
-    skill: <Icon icon="mdi:language-html5" className="display-4" />,
-    name: "HTML5",
+        skill: <Icon icon="teenyicons:c-sharp-solid" className="display-4" />,
+    name: "C#",
   },
   {
     id: 2,
-    skill: <Icon icon="ion:logo-css3" className="display-4" />,
-    name: "CSS3",
+      skill: <Icon icon="akar-icons:python-fill" className="display-4" />,
+      name: "Python",
   },
   {
     id: 3,
-    skill: <Icon icon="fa6-brands:js" className="display-4" />,
-    name: "JavaScript",
+      skill: <Icon icon="hugeicons:sql" className="display-4" />,
+      name: "SQL",
   },
   {
     id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
+      skill: <Icon icon="ri:nodejs-line" className="display-4" />,
+      name: "Node.js",
   },
   {
     id: 5,
@@ -69,28 +93,59 @@ export const skillData = [
   },
   {
     id: 6,
-    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
-    name: "Styled Components",
+      skill: <Icon icon="fluent:code-vb-16-regular" className="display-4" />,
+      name: "VB.NET",
   },
   {
     id: 7,
-    skill: <Icon icon="akar-icons:redux-fill" className="display-4" />,
-    name: "Redux",
+      skill: <Icon icon="teenyicons:mongodb-outline" className="display-4" />,
+      name: "MongoDB",
   },
   {
     id: 8,
-    skill: <Icon icon="bi:git" className="display-4" />,
-    name: "Git",
+      skill: <Icon icon="mdi:mapbox" className="display-4" />,
+    name: "MapBox",
   },
   {
     id: 9,
     skill: <Icon icon="fa6-brands:square-github" className="display-4" />,
     name: "GitHub",
-  },
+    },
+    {
+        id: 10,
+        skill: <Icon icon="simple-icons:maplibre" className="display-4" />,
+        name: "MapLibre",
+    },
+    {
+        id: 11,
+        skill: <Icon icon="simple-icons:postgresql" className="display-4" />,
+        name: "PostgreSQL",
+    },
+    {
+        id: 12,
+        skill: <Icon icon="simple-icons:docker" className="display-4" />,
+        name: "Docker",
+    },
+    {
+        id: 13,
+        skill: <Icon icon="simple-icons:kubernetes" className="display-4" />,
+        name: "Kubernetes",
+    },
+    {
+        id: 14,
+        skill: <Icon icon="akar-icons:google-fill" className="display-4" />,
+        name: "Google Cloud",
+    },
+    {
+        id: 15,
+        skill: <Icon icon="simple-icons:graphql" className="display-4" />,
+        name: "GraphQL",
+    },
 ];
 
-// Resume link (string - "https://YourResumeUrl") - I am using CloudFront to share my resume (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-export const resume = null;
+// Resume link 
+export const resume = "https://drive.google.com/file/d/1ZtrY8t5xHpC2OfkSfjE_o4xEJ4jUWNje/view?usp=sharing";
+
 
 /* Projects
  ************************************************************** 
@@ -111,7 +166,7 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/xyzebnol";
 
 // Footer icons theme (light or dark)
 export const footerTheme = "dark";

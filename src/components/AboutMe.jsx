@@ -39,7 +39,10 @@ const AboutMe = ({ avatar_url, bio, moreInfo }) => {
             <Col className="d-flex flex-column text-center">
               <Container>
                 {bio && <p>{bio}</p>}
-                {moreInfo && <p>{moreInfo}</p>}
+                              {moreInfo &&
+                                  moreInfo.split("\n\n").map((paragraph, idx) => (
+                                      <p key={idx}>{paragraph}</p>
+                                  ))}
               </Container>
             </Col>
             <Col className="d-none d-md-block text-center">
