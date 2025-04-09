@@ -10,6 +10,8 @@ import HeroDark from "./images/hero-dark.jpg";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/map-project-card.png";
+import Logo2 from "./images/python-logo.png";
+import Logo3 from "./images/devicon--csharp.png";
 
 /* START HERE
  **************************************************************
@@ -153,13 +155,22 @@ export const resume = "https://drive.google.com/file/d/1ZtrY8t5xHpC2OfkSfjE_o4xE
 */
 export const filteredProjects = ["geo-map-app", "Cam3DtoSQL", "post-git"];
 
-// Replace the defualt GitHub image for matching repos below (images imported above - lines 7-8)
+// Replace the default GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
-  {
-    name: "geo-map-app",
-    image: Logo,
-  },
+    {
+        name: "geo-map-app",
+        image: Logo,
+    },
+    {
+        name: "post-git",
+        image: Logo2,
+    },
+    {
+        name: "Cam3DtoSQL",
+        image: Logo3,
+    }
 ];
+
 
 /* Contact Info
  ************************************************************** 
