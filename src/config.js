@@ -12,6 +12,7 @@ import HeroDark from "./images/hero-dark.jpg";
 import Logo from "./images/map-project-card.png";
 import Logo2 from "./images/python-logo.png";
 import Logo3 from "./images/devicon--csharp.png";
+import Logo4 from "./images/devicon--visualstudio.png";
 
 /* START HERE
  **************************************************************
@@ -168,6 +169,26 @@ export const projectCardImages = [
     {
         name: "Cam3DtoSQL",
         image: Logo3,
+    },
+    {
+        name: "2ndMachinePost-KEEP",
+        image: Logo4,
+    },
+    {
+        name: "Daikin-Filter",
+        image: Logo4,
+    },
+    {
+        name: "ImportOrder-Nortek",
+        image: Logo4,
+    },
+    {
+        name: "NCX-Analytics-Server",
+        image: Logo3,
+    },
+    {
+        name: "ReplaceLabel-exe",
+        image: Logo4,
     }
 ];
 
