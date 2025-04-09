@@ -109,6 +109,10 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Projects.jsx",
@@ -118,8 +122,7 @@
               "RelativeToolTip": "src\\components\\Projects.jsx",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-08T18:12:25.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T18:12:25.149Z"
             },
             {
               "$type": "Document",
@@ -131,8 +134,7 @@
               "RelativeToolTip": "src\\components\\ProjectCard.jsx",
               "ViewState": "AgIAAEkAAAAAAAAAAAAAAGEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-08T12:49:10.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T12:49:10.533Z"
             },
             {
               "$type": "Document",
@@ -144,8 +146,7 @@
               "RelativeToolTip": "src\\App.js",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-07T19:18:02.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T19:18:02.479Z"
             },
             {
               "$type": "Document",
@@ -157,20 +158,7 @@
               "RelativeToolTip": "src\\components\\Hero.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-07T18:48:53.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AboutMe.jsx",
-              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\AboutMe.jsx",
-              "RelativeDocumentMoniker": "src\\components\\AboutMe.jsx",
-              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\AboutMe.jsx",
-              "RelativeToolTip": "src\\components\\AboutMe.jsx",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvy0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-07T18:40:00.901Z"
+              "WhenOpened": "2025-04-07T18:48:53.887Z"
             },
             {
               "$type": "Document",
@@ -182,8 +170,7 @@
               "RelativeToolTip": "src\\app\\projectsSlice.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-07T18:39:53.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T18:39:53.771Z"
             },
             {
               "$type": "Document",
@@ -207,8 +194,7 @@
               "RelativeToolTip": "src\\config.js",
               "ViewState": "AgIAAF0AAAAAAAAAAAAAAJkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-07T18:38:46.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T18:38:46.71Z"
             },
             {
               "$type": "Document",
@@ -220,8 +206,7 @@
               "RelativeToolTip": "src\\custom.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-04-07T19:40:39.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T19:40:39.106Z"
             },
             {
               "$type": "Document",
@@ -231,10 +216,22 @@
               "RelativeDocumentMoniker": "package.json",
               "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\package.json",
               "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-07T18:39:19.484Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutMe.jsx",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\AboutMe.jsx",
+              "RelativeDocumentMoniker": "src\\components\\AboutMe.jsx",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\Portfolio\\Portfolio\\src\\components\\AboutMe.jsx",
+              "RelativeToolTip": "src\\components\\AboutMe.jsx",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvy0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-07T18:40:00.901Z"
             },
             {
               "$type": "Document",

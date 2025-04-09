@@ -9,7 +9,7 @@ import HeroLight from "./images/hero-light.jpg";
 import HeroDark from "./images/hero-dark.jpg";
 
 // Projects Images (add your images to the images directory and import below)
-import Logo from "./images/logo.svg";
+import Logo from "./images/map-project-card.png";
 
 /* START HERE
  **************************************************************
@@ -156,7 +156,7 @@ export const filteredProjects = ["geo-map-app", "Cam3DtoSQL", "post-git"];
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
   {
-    name: "example-1",
+    name: "geo-map-app",
     image: Logo,
   },
 ];
