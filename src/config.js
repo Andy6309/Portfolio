@@ -163,6 +163,10 @@ export const projectCardImages = [
         image: Logo,
     },
     {
+        name: "PfpToDbService",
+        image: Logo3,
+    },
+    {
         name: "post-git",
         image: Logo2,
     },
