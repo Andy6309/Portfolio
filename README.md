@@ -1,22 +1,6 @@
 # A React Portfolio Template for GitHub
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/mshuber1981/github-react-portfolio-template?color=%2361dbfb&style=for-the-badge&logo=github)](https://github.com/mshuber1981/github-react-portfolio-template/stargazers/) [![GitHub Repo Forks](https://img.shields.io/github/forks/mshuber1981/github-react-portfolio-template?color=%2361dbfb&style=for-the-badge&logo=github&label=Forks)](https://github.com/mshuber1981/github-react-portfolio-template/network/members) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com&style=for-the-badge&logo=X&label=Say%20thank%20you!&labelColor=black&color=black)](https://twitter.com/intent/tweet?text=Thanks%20for%20the%20awesome%20Portfolio%20Template!%20https://github.com/mshuber1981/github-react-portfolio-template&via=MikeyHuber1981)
-
 A performant, accessible, progressive React portfolio template that uses the [GitHub REST API](https://docs.github.com/en/free-pro-team@latest/rest).
-
-Add your GitHub username once and all of your info will automatically be updated. Deploy to GitHub pages in a few simple steps.
-
-## [Live Demo](https://mshuber1981.github.io/github-react-portfolio-template/#/)
-
-[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
-![Page Speed](/README_images/speed.png)
-
-## Light And Dark Themes
-
-![Hero Light](/README_images/hero.png)
-
-![Hero Dark](/README_images/heroDark.png)
 
 ### Getting Started
 
