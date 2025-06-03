@@ -13,6 +13,7 @@ import Logo from "./images/map-project-card.png";
 import Logo2 from "./images/python-logo.png";
 import Logo3 from "./images/devicon--csharp.png";
 import Logo4 from "./images/devicon--visualstudio.png";
+import Logo5 from "./images/go.png";
 
 /* START HERE
  **************************************************************
@@ -144,6 +145,21 @@ export const skillData = [
         skill: <Icon icon="simple-icons:graphql" className="display-4" />,
         name: "GraphQL",
     },
+    {
+      id: 16,
+      skill: <Icon icon="file-icons:go" className="display-4" />,
+      name: "Go",
+    },
+    {
+      id: 16,
+      skill: <Icon icon="bxl:vuejs" className="display-4" />,
+      name: "Vue",
+    },
+    {
+      id: 17,
+      skill: <Icon icon="file-icons:test-typescript" className="display-4" />,
+      name: "TypeScript",
+    },
 ];
 
 // Resume link 
@@ -154,7 +170,7 @@ export const resume = "https://drive.google.com/file/d/1ZtrY8t5xHpC2OfkSfjE_o4xE
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["geo-map-app", "PfpToDbService", "ImportOrder-Nortek"];
+export const filteredProjects = ["geo-map-app", "Go-Auth", "PfpToDbService", "ImportOrder-Nortek"];
 
 // Replace the default GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
@@ -193,6 +209,10 @@ export const projectCardImages = [
     {
         name: "ReplaceLabel-exe",
         image: Logo4,
+    },
+    {
+      name: "Go-Auth",
+      image: Logo5,
     }
 ];
 
