@@ -1,4 +1,4 @@
-﻿// Skills icons - https://icon-sets.iconify.design/
+// Skills icons - https://icon-sets.iconify.design/
 import { Icon } from "@iconify/react";
 
 // Navbar Logo image (add your image to the src/images directory and uncomment the line below to import your image)
@@ -39,7 +39,7 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-    "Hi, I'm Andy Mize — a Software Specialist and Developer based in Butler, KY. I focus on building high-performance, data-driven, and geospatially aware software systems.\n\n" +
+    "Hi, I'm Andy Mize — a Senior Software Specialist and Full Stack Developer based in Butler, KY. I focus on building high-performance, data-driven, and geospatially aware software systems.\n\n" +
 
     " What I Do:\n" +
     "- Backend/API development using C#, Python, Node.js, and SQL\n" +
@@ -170,7 +170,7 @@ export const resume = "https://drive.google.com/file/d/1ZtrY8t5xHpC2OfkSfjE_o4xE
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["geo-map-app", "Go-Auth", "PfpToDbService", "ImportOrder-Nortek"];
+export const filteredProjects = ["geo-map-app", "Go-Auth", "PfpToDbService", "DailyTaskPlanner","Fanatics"];
 
 // Replace the default GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
@@ -187,8 +187,16 @@ export const projectCardImages = [
         image: Logo2,
     },
     {
+        name: "DailyTaskPlanner",
+        image: Logo4,
+    },
+    {
         name: "Cam3DtoSQL",
         image: Logo3,
+    },
+    {
+        name: "Fanatics",
+        image: Logo2,
     },
     {
         name: "2ndMachinePost-KEEP",
