@@ -170,7 +170,7 @@ export const resume = "https://drive.google.com/file/d/1ZtrY8t5xHpC2OfkSfjE_o4xE
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["geo-map-app", "Go-Auth", "PfpToDbService", "DailyTaskPlanner","Fanatics"];
+export const filteredProjects = ["geo-map-app", "Go-Auth", "PfpToDbService", "DailyTaskPlanner","Fanatics","RMEF-Analytics-Sandbox"];
 
 // Replace the default GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
@@ -181,6 +181,10 @@ export const projectCardImages = [
     {
         name: "PfpToDbService",
         image: Logo3,
+    },
+    {
+      name: "rmefRMEF-Analytics-Sandbox",
+      image: Logo2,
     },
     {
         name: "post-git",

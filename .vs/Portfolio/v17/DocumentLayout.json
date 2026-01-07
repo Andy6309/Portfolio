@@ -102,11 +102,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -130,8 +130,7 @@
               "RelativeToolTip": "src\\components\\Hero.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-07T18:48:53.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T18:48:53.887Z"
             },
             {
               "$type": "Document",
@@ -167,8 +166,7 @@
               "RelativeToolTip": "src\\config.js",
               "ViewState": "AgIAAN4AAAAAAAAAAAAAAKAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-07T18:38:46.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T18:38:46.71Z"
             },
             {
               "$type": "Document",
@@ -205,8 +203,7 @@
               "RelativeToolTip": "src\\components\\Skills.jsx",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-04-07T19:34:56.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T19:34:56.62Z"
             },
             {
               "$type": "Document",
